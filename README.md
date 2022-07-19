@@ -28,7 +28,7 @@ Pandas, matplot(visualizing), seaborn(visualizing) for EDA
 
 •	Support Vector Regressor
 
-### Prediciton method used Decision Tree Regressor, as it results better R2 score
+### Prediciton method used Random Forest Regressor, as it results better R2 score
 
 
 ### FEATURE ELIMINATION 

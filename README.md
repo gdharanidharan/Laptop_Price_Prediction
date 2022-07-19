@@ -9,15 +9,24 @@ We are required to model the price of Laptops with the available independent var
 Pandas, matplot(visualizing), seaborn(visualizing) for EDA
 
 Prediciton method used here is Multiple Linear Regression
-Linear Regression,
-Ridge,
-Lasso
-KNeighbors Regressor
-Decision Tree Regressor
-Random Forest Regressor
-Gradient Boosting Regressor
-Ada Boost Regressor
-Support Vector Regressor
+
+•	Linear Regression
+
+•	Ridge
+
+•	Lasso
+
+•	KNeighbors Regressor
+
+•	Decision Tree Regressor
+
+•	Random Forest Regressor
+
+•	Gradient Boosting Regressor
+
+•	Ada Boost Regressor
+
+•	Support Vector Regressor
 
 
 ### FEATURE ELIMINATION 
